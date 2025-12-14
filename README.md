@@ -1,10 +1,20 @@
-# 👋 Hi, I'm Shahul Hameed Badhusha
+<h1 align="center">Hi 👋, I'm Shahul Hameed Badhusha</h1>
 
-### Java Backend Developer | Spring Boot | REST APIs | SQL | Kafka
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badhusha2000&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<h3 align="center">
+Java Backend Developer | Spring Boot | REST APIs | SQL | Kafka
+</h3>
+
+---
+
+## 👨‍💻 About Me
 
 I am a **Java Backend Developer with 4.5+ years of professional experience** building scalable, secure, and high-performance backend applications for **POS systems, e-commerce platforms, and financial applications**.
 
-I specialize in **Spring Boot–based backend development**, RESTful API design, database optimization, and system integrations.
+I specialize in **Spring Boot–based backend development**, RESTful API design, database optimization, and third-party integrations.
 
 ---
 
@@ -21,7 +31,7 @@ I specialize in **Spring Boot–based backend development**, RESTful API design,
 
 ### Messaging & Integrations
 - Apache Kafka
-- Shopify API
+- Shopify API, UrbanPiper API
 - JSON-based external API integrations
 
 ### Tools & DevOps
@@ -33,11 +43,11 @@ I specialize in **Spring Boot–based backend development**, RESTful API design,
 
 ## 💼 Professional Highlights
 
-- Developed **POS and e-commerce backend systems** using Java & Spring Boot
+- Built **POS and e-commerce backend systems** using Java & Spring Boot
 - Implemented **Shopify order and inventory synchronization**
 - Optimized SQL queries improving performance by **30–40%**
-- Built **event-driven workflows using Apache Kafka**
-- Developed **JWT-based secure authentication** for financial applications
+- Developed **event-driven workflows using Apache Kafka**
+- Implemented **JWT-based secure authentication**
 - Migrated and optimized **Jasper Reports**, reducing report generation time by **50%**
 - Refactored legacy Java code to improve maintainability and performance
 
@@ -48,12 +58,10 @@ I specialize in **Spring Boot–based backend development**, RESTful API design,
 ### 🔹 Shopify Inventory Sync Service
 Real-time synchronization of orders and inventory between internal systems and Shopify.
 
-**Tech Stack:**  
-Spring Boot, Shopify API, Webhooks, MySQL, JSON
-
-**Key Features:**
+**Tech Stack:** Spring Boot, Shopify API, Webhooks, MySQL, JSON  
+**Highlights:**
 - Order retrieval and lifecycle management
-- Inventory synchronization across channels
+- Inventory synchronization across multiple sales channels
 - Scheduled sync jobs to avoid API rate limits
 - Zero stock mismatch handling
 
@@ -62,10 +70,8 @@ Spring Boot, Shopify API, Webhooks, MySQL, JSON
 ### 🔹 POS Backend System (Retail Application)
 A scalable backend system supporting multi-branch retail operations.
 
-**Tech Stack:**  
-Spring Boot, REST APIs, Kafka, MySQL, Docker
-
-**Key Features:**
+**Tech Stack:** Spring Boot, REST APIs, Kafka, MySQL, Docker  
+**Highlights:**
 - Product and inventory management
 - Order processing and reporting
 - Event-driven stock updates
@@ -76,21 +82,19 @@ Spring Boot, REST APIs, Kafka, MySQL, Docker
 ### 🔹 Islamic Finance Platform (Ar-Rahnu & BSE)
 A Shariah-compliant financial system for gold pledge and savings management.
 
-**Tech Stack:**  
-Spring Boot, Hibernate, MSSQL, JWT, Jasper Reports
-
-**Key Features:**
+**Tech Stack:** Spring Boot, Hibernate, MSSQL, JWT, Jasper Reports  
+**Highlights:**
 - Gold valuation and loan processing workflows
 - Secure authentication and role-based access
 - Financial reporting and compliance tracking
 
 ---
 
-## 📈 What I’m Looking For
+## 🎯 What I’m Looking For
 
 - Java Backend Developer / Spring Boot roles
-- Backend-focused positions (Microservices / REST APIs)
-- Opportunities in **Malaysia, India, or GCC countries**
+- Backend-focused opportunities (REST APIs / Microservices)
+- Locations: **Malaysia | India | GCC**
 
 ---
 
